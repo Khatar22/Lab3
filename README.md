@@ -12,14 +12,11 @@
 - `styles/styles.css` — визуализация сетки и растений.
 - `assets/*` — изображения культур и воды.
 
-## Публикация на GitHub Pages
-1. Создайте публичный репозиторий и загрузите содержимое проекта.
-2. В настройках репозитория включите GitHub Pages: Source = `main` (или `master`), `/root`.
-3. Дождитесь деплоя и получите URL вида `https://<username>.github.io/<repo>/`.
-4. В Google Classroom предоставьте ссылку на репозиторий и на GitHub Pages.
 
 ## Проверка линтером
 - Установите ESLint/Prettier глобально или локально.
 - Запустите:
   - `npx eslint src --ext .js`
   - `npx prettier --check .`
+
+ https://khatar22.github.io/Lab3/
